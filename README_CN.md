@@ -119,9 +119,19 @@ CodexPad提供了两种灵活的主机连接方式，您可以根据开发场景
 
 ---
 
-### 图形化
+### Mind+库和示例程序
 
-> TODO
+Mind+ CodexPad蓝牙手柄用户库链接：<https://gitee.com/emakefun_midplus_lib/codexpad-c10>
+
+[点击查看Mind+导入用户库方法](https://mindplus.dfrobot.com.cn/extensions-user-libraries)
+
+[点击下载CodexPad蓝牙手柄Mind+示例程序](https://gitee.com/emakefun_midplus_lib/codexpad-c10/releases/download/V0.0.1/codexpad_c10%E6%B5%8B%E8%AF%95%E7%A4%BA%E4%BE%8B.zip)
+
+### Mixly库和示例程序
+
+[点击下载CodexPad蓝牙手柄Mixly库](https://gitee.com/emakefun_mixly_lib/codexpad-c10/releases/download/V0.0.1/codexpad-c10_Mixly%E5%BA%93.zip)
+
+[点击下载CodexPad蓝牙手柄Mixly示例程序](https://gitee.com/emakefun_mixly_lib/codexpad-c10/releases/download/V0.0.1/codexpad-c10%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84Mixly%E7%A4%BA%E4%BE%8B.zip)
 
 ---
 
