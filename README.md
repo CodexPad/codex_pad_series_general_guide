@@ -1,3 +1,3 @@
 # CodexPad Series General Guide
 
-[中文版](README_CN.md)
+[中文版](README.zh-CN.md)
